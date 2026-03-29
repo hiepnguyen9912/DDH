@@ -1,0 +1,47 @@
+.nav-container {
+    height: 70px !important;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.nav-link {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50px !important;
+    position: relative;
+    transition: all 0.3s ease;
+    background-color: transparent !important;
+    color: #474242 !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    padding: 0 30px !important;
+}
+
+.nav-link:hover {
+    background-color: transparent !important;
+}
+
+.nav-link:hover .menu-title,
+.nav-link:hover .parent-icon i {
+    color: #0d5459 !important;
+}
+
+/* Underline for active state */
+.router-link-active .nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    width: 80%;
+    height: 3px;
+    background-color: #0d5459;
+}
+
+/* Text color for active state */
+.router-link-active .nav-link .menu-title,
+.router-link-active .nav-link .parent-icon i {
+    color: #0d5459 !important;
+}

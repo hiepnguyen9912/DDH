@@ -1,0 +1,55 @@
+:root {
+    --primary-color: #0d5459;
+    --primary-hover: #0a4347;
+}
+
+.text-ddh {
+    color: var(--primary-color) !important;
+}
+
+.bg-ddh {
+    background-color: var(--primary-color) !important;
+}
+
+.btn-ddh {
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color: white !important;
+}
+
+.btn-ddh:hover {
+    background-color: var(--primary-hover) !important;
+    border-color: var(--primary-hover) !important;
+    color: white !important;
+}
+
+.btn-outline-ddh {
+    color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+}
+
+.btn-outline-ddh:hover {
+    background-color: var(--primary-color) !important;
+    color: white !important;
+}
+
+.border-ddh {
+    border-color: var(--primary-color) !important;
+}
+
+.badge-ddh {
+    background-color: var(--primary-color) !important;
+    color: white !important;
+}
+
+/* Hide scrollbar globally for a cleaner agency look */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
