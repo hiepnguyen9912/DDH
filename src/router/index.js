@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router"; // cài vue-router: npm install vue-router@next --save
+import { createRouter, createWebHashHistory } from "vue-router"; // cài vue-router: npm install vue-router@next --save
 
 const routes = [
   {
@@ -26,7 +26,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: routes,
   scrollBehavior(to, from, savedPosition) {
     return { top: 0 }
