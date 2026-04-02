@@ -7,9 +7,7 @@
                     <div class="hero-content pe-5">
                         <h4 class="display-4 fw-bold mb-4">Nâng tầm không gian <br><span class="text-ddh">Chạm đà
                                 cảm xúc</span></h4>
-                        <p class="lead my-5 pt-4 ">Danang Decor Hub (DDH) - Chuyên gia thiết kế và thi công nội thất
-                            trọn gói
-                            tại Đà Nẵng. Chúng tôi biến ý tưởng của bạn thành hiện thực hoàn mỹ.</p>
+                        <p class="lead my-5 pt-4 ">Da Nang Decor Hub không chỉ đơn thuần là một cửa hàng bán đồ trang trí, mà còn định hướng trở thành một trạm kết nối giữa nghệ thuật thủ công và không gian kinh doanh hiện đại tại thành phố Đà Nẵng.</p>
                         <div class="d-flex gap-3">
                             <button class="btn btn-ddh px-5 fw-bold py-3 shadow-lg">Khám phá dự án</button>
                             <button class="btn btn-outline-ddh fw-bold shadow-lg px-5 py-3">Tư vấn miễn phí</button>
@@ -32,7 +30,7 @@
                             <!-- Medium Overlapping Bottom Image -->
                             <div class="hero-img-item sub-img-bottom shadow-xl overflow-hidden rounded-4 border-4 border-white"
                                 data-aos="fade-up" data-aos-delay="400">
-                                <img src="https://images.unsplash.com/photo-1616137422495-1e9e46e2aa77?auto=format&fit=crop&q=80&w=800"
+                                <img src="../../../assets//images/img-intro/1.jpg"
                                     alt="Detail 2">
                             </div>
                             <!-- Floating Badge -->
@@ -47,37 +45,7 @@
             </div>
         </section>
 
-        <!-- Minimalist Stat Row -->
-        <section class="bg-ddh border-bottom mt-5 py-3 stat-row-depth">
-            <div class="container py-4">
-                <div class="row g-0 text-center">
-                    <div class="col-6 col-md-3">
-                        <div class="p-3 text-center py-0">
-                            <h2 class="display-6 text-white fw-bold mb-1">500+</h2>
-                            <p class=" small text-uppercase text-white ls-2">Dự án bàn giao</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 border-start">
-                        <div class="p-3 text-center py-0">
-                            <h2 class="display-6 text-white fw-bold mb-1">12</h2>
-                            <p class=" small text-uppercase text-white ls-2">Năm tận tâm</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 border-start">
-                        <div class="p-3 text-center py-0">
-                            <h2 class="display-6 text-white fw-bold mb-1">99%</h2>
-                            <p class=" small text-uppercase text-white ls-2">Khách hàng cũ quay lại</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 border-start">
-                        <div class="p-3 text-center py-0">
-                            <h2 class="display-6 text-white fw-bold mb-1">#1</h2>
-                            <p class=" small text-uppercase text-white ls-2">Đà Nẵng Decor</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <!-- About Section -->
         <section class="section-padding reveal-on-scroll reveal-up">
@@ -89,7 +57,7 @@
                                 class="img-fluid rounded-4 shadow-lg" alt="About DDH">
                             <div class="experience-badge bg-ddh text-white p-4 rounded-3 shadow">
                                 <span class="display-4 fw-bold">10+</span>
-                                <p class="mb-0">Năm kinh nghiệm</p>
+                                <p class="mb-0">Dự án tiêu biểu</p>
                             </div>
                         </div>
                     </div>
