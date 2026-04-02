@@ -45,43 +45,6 @@
             </div>
         </section>
 
-        
-
-        <!-- About Section -->
-        <section class="section-padding reveal-on-scroll reveal-up">
-            <div class="container">
-                <div class="row d-flex mt-5">
-                    <div class="col-lg-6 mb-5 mb-lg-0">
-                        <div class="about-img-wrapper position-relative">
-                            <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=1000"
-                                class="img-fluid rounded-4 shadow-lg" alt="About DDH">
-                            <div class="experience-badge bg-ddh text-white p-4 rounded-3 shadow">
-                                <span class="display-4 fw-bold">10+</span>
-                                <p class="mb-0">Dự án tiêu biểu</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 ps-lg-6 ps-5 ms-5 reveal-on-scroll reveal-right">
-                        <h5 class="display-6 fw-bold mb-4">Danang Decor Hub (DDH)</h5>
-                        <p class="text-muted mb-4 fs-6">Chúng tôi không chỉ thi công nội thất, chúng tôi kiến tạo không
-                            gian sống. Mỗi dự án là một tác phẩm nghệ thuật được chăm chút tỉ mỉ từ khâu ý tưởng đến khi
-                            hoàn thiện.</p>
-                        <ul class="list-unstyled mb-5">
-                            <li class="mb-3 d-flex align-items-center"><i
-                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Thiết kế độc bản, đẳng cấp</li>
-                            <li class="mb-3 d-flex align-items-center"><i
-                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Thi công chuyên nghiệp, đúng
-                                tiến độ</li>
-                            <li class="mb-3 d-flex align-items-center"><i
-                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Vật liệu cao cấp, bảo hành dài
-                                hạn</li>
-                        </ul>
-                        <button class="btn btn-ddh px-4 py-2">Xem chi tiết</button>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <!-- Services Section -->
         <section class="section-padding">
             <div class="container text-center">
@@ -119,74 +82,46 @@
             </div>
         </section>
 
-
-
-        <!-- Portfolio Gallery - High-Impact Agency Style -->
-        <section class="section-padding">
+        <!-- About Section -->
+        <section class="section-padding reveal-on-scroll reveal-up">
             <div class="container">
-                <div class="row justify-content-between align-items-end mb-5">
-                    <div class="col-lg-6">
-                        <h2 class="display-6 fw-bold text-dark reveal-on-scroll reveal-left">Dự án chọn lọc tiêu biểu</h2>
-                    </div>
-                </div>
-
-                <div class="row g-5">
-                    <!-- Featured Project 1 -->
-                    <div class="col-md-8 reveal-on-scroll reveal-left">
-                        <div class="agency-project position-relative overflow-hidden rounded-5 shadow-2xl"
-                            data-aos="zoom-out">
-                            <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=1600"
-                                class="img-fluid w-100 h-600 object-fit-cover transition-slow" alt="Villa De Mer">
-                            <div class="agency-project-info p-5">
-                                <span class="badge bg-white text-ddh px-3 py-2 rounded-pill mb-3">Dự án tiêu biểu</span>
-                                <h2 class="display-5 fw-bold text-white shadow-text mb-0">Villa De Mer Boutique</h2>
-                                <p class="text-white lead mt-3 max-w-500">Thiết kế phong cách địa trung hải đầy tinh tế
-                                    giữa lòng Đà Nẵng.</p>
-                                <div class="mt-4">
-                                    <button class="btn btn-light px-4 py-2 fw-bold">Xem bộ ảnh</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Project Grid (2 columns) -->
-                    <div class="col-md-4 d-flex flex-column justify-content-between reveal-on-scroll reveal-right delay-2">
-                        <div class="agency-project mini position-relative overflow-hidden rounded-5 shadow-xl"
-                            data-aos="fade-left">
-                            <img src="https://images.unsplash.com/photo-1616137422495-1e9e46e2aa77?auto=format&fit=crop&q=80&w=1000"
-                                style="height: 280px;" class="img-fluid w-100 object-fit-cover transition-slow"
-                                alt="Sunrise Penthouse">
-                            <div
-                                class="project-glass-info p-2 px-3 m-3 rounded-4 position-absolute bottom-0 start-0 end-0 d-flex justify-content-between align-items-center">
-                                <div>
-                                    <h5 class="fw-bold mb-1 text-dark">Sunrise Penthouse</h5>
-                                    <p class="text-muted mt-2 mb-0">Tối giản & Đẳng cấp</p>
-                                </div>
-                                <div class="btn-circle bg-ddh text-white shadow"><i class="fas fa-arrow-right"></i>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="agency-project mini position-relative overflow-hidden rounded-5 shadow-xl"
-                            data-aos="fade-right">
+                <div class="row d-flex mt-5">
+                    <div class="col-lg-6 mb-5 mb-lg-0">
+                        <div class="about-img-wrapper position-relative">
                             <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=1000"
-                                style="height: 280px;" class="img-fluid w-100 object-fit-cover transition-slow"
-                                alt="Sun Cosmo">
-                            <div
-                                class="project-glass-info p-2 px-3 m-3 rounded-4 position-absolute bottom-0 start-0 end-0 d-flex justify-content-between align-items-center">
-                                <div>
-                                    <h5 class="fw-bold mb-1 text-dark">Căn hộ Sun Cosmo</h5>
-                                    <p class="text-muted mt-2 mb-0">Nội thất gỗ óc chó cao cấp</p>
-                                </div>
-                                <div class="btn-circle bg-ddh text-white shadow"><i class="fas fa-arrow-right"></i>
-                                </div>
+                                class="img-fluid rounded-4 shadow-lg" alt="About DDH">
+                            <div class="experience-badge bg-ddh text-white p-4 rounded-3 shadow">
+                                <span class="display-4 fw-bold">10+</span>
+                                <p class="mb-0">Dự án tiêu biểu</p>
                             </div>
                         </div>
                     </div>
-
+                    <div class="col-lg-5 ps-lg-6 ps-5 ms-5 reveal-on-scroll reveal-right">
+                        <h5 class="display-6 fw-bold mb-4">Danang Decor Hub (DDH)</h5>
+                        <p class="text-muted mb-4 fs-6">Chúng tôi không chỉ thi công nội thất, chúng tôi kiến tạo không
+                            gian sống. Mỗi dự án là một tác phẩm nghệ thuật được chăm chút tỉ mỉ từ khâu ý tưởng đến khi
+                            hoàn thiện.</p>
+                        <ul class="list-unstyled mb-5">
+                            <li class="mb-3 d-flex align-items-center"><i
+                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Thiết kế độc bản, đẳng cấp</li>
+                            <li class="mb-3 d-flex align-items-center"><i
+                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Thi công chuyên nghiệp, đúng
+                                tiến độ</li>
+                            <li class="mb-3 d-flex align-items-center"><i
+                                    class="fas fa-check-circle text-ddh me-3 fs-4"></i> Vật liệu cao cấp, bảo hành dài
+                                hạn</li>
+                        </ul>
+                        <button class="btn btn-ddh px-4 py-2">Xem chi tiết</button>
+                    </div>
                 </div>
             </div>
         </section>
+
+        
+
+
+
+   
 
         <!-- CTA Section -->
         <section class="cta-section py-5 text-center my-5 reveal-on-scroll reveal-up">
@@ -332,7 +267,7 @@ export default {
 }
 
 .section-padding {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .about-img-wrapper .experience-badge {
